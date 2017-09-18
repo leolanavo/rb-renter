@@ -1,0 +1,3 @@
+Corolla 2017 Sedan 500 5
+Idea 2016 Hatch 450 6
+Uno 2000 Hatch 200 3
